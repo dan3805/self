@@ -1,9 +1,13 @@
-# Plan de Remise en Forme Avancé - 3 Semaines
+# Plan de Remise en Forme Avancé - Semaine 1
 
-## Semaine 1
+## Lundi
+### Table des matières
+- Échauffement
+- Exercices
+- Étirements
+- Recommandations alimentaires
 
-### Lundi
-#### Échauffement
+### Échauffement
 1. **Cercles des bras**
    - **Objectif** : Préparer les épaules et augmenter la mobilité.
    - **Instructions** :
@@ -27,11 +31,11 @@
      - Faites des rotations lentes de la tête, 5 fois dans chaque direction.
    - **Points d'attention** : Effectuez les rotations doucement pour éviter les étirements brusques.
 
-#### Exercices
-1. **Pompes pieds surélevés**
+### Exercices
+1. **Pompes classiques**
    - **Objectif** : Renforcer les muscles du haut du corps, en particulier les pectoraux, les triceps et les épaules.
    - **Instructions** :
-     - Positionnez-vous en position de pompe standard, mais placez vos pieds sur une surface surélevée (une chaise, un banc ou une boîte).
+     - Positionnez-vous en position de pompe standard.
      - Vos mains doivent être légèrement plus larges que la largeur des épaules.
      - Gardez le corps en ligne droite de la tête aux talons.
      - Descendez lentement en pliant les coudes jusqu'à ce que votre poitrine touche presque le sol.
@@ -41,10 +45,10 @@
      - Gardez le cou neutre, ne le laissez pas tomber ou se tendre en arrière.
      - Respirez en descendant et expirez en montant.
 
-2. **Fentes avec poids**
+2. **Fentes avant**
    - **Objectif** : Renforcer les muscles des jambes, en particulier les quadriceps, les fessiers et les ischio-jambiers.
    - **Instructions** :
-     - Tenez des haltères dans chaque main, les bras relâchés le long du corps.
+     - Debout, les pieds écartés à la largeur des hanches.
      - Faites un grand pas en avant avec une jambe.
      - Pliez les deux genoux pour abaisser votre corps jusqu'à ce que le genou arrière soit juste au-dessus du sol et que le genou avant forme un angle de 90 degrés.
      - Poussez avec le talon de la jambe avant pour revenir à la position de départ.
@@ -67,19 +71,17 @@
      - Gardez la tête alignée avec la colonne vertébrale.
      - Engagez les muscles du tronc tout au long de l'exercice.
 
-4. **Soulevé de terre avec haltères**
+4. **Soulevé de terre avec poids du corps**
    - **Objectif** : Renforcer les muscles du dos, des jambes et des fessiers.
    - **Instructions** :
-     - Tenez des haltères devant vos cuisses, les pieds écartés à la largeur des hanches.
+     - Debout, les pieds écartés à la largeur des hanches.
      - Pliez légèrement les genoux et penchez-vous en avant à partir des hanches, en gardant le dos droit.
-     - Descendez les haltères le long des jambes jusqu'à ce que vous sentiez un étirement dans les ischio-jambiers.
      - Revenez à la position debout en poussant avec les hanches et en serrant les fessiers.
    - **Points d'attention** :
      - Gardez le dos plat et évitez de le courber.
-     - Les haltères doivent rester proches du corps pendant tout le mouvement.
      - Respirez en descendant et expirez en remontant.
 
-#### Étirements
+### Étirements
 1. **Étirements des épaules**
    - **Objectif** : Détendre les muscles des épaules.
    - **Instructions** :
@@ -95,12 +97,16 @@
      - Maintenez pendant 30 secondes, puis changez de côté.
    - **Points d'attention** : Gardez le dos droit et évitez de courber les épaules.
 
-#### Recommandations alimentaires
+### Recommandations alimentaires
 - **Avant l'entraînement** : Une banane et un verre d'eau
 - **Après l'entraînement** : Smoothie protéiné (banane, épinards, lait d'amande, poudre de protéine)
 
-### Mardi
-#### Cardio (Vélo stationnaire)
+## Mardi
+### Table des matières
+- Cardio
+- Recommandations alimentaires
+
+### Cardio (Vélo stationnaire)
 - **Objectif** : Améliorer l'endurance cardiovasculaire et brûler des calories.
 - **Instructions** :
   - **Durée** : 40 minutes
@@ -112,22 +118,36 @@
   - Ajustez la résistance selon votre niveau de confort et d'intensité souhaitée.
   - Utilisez votre montre pour suivre le temps et les intervalles.
 
-#### Recommandations alimentaires
+### Recommandations alimentaires
 - **Avant l'entraînement** : Une poignée de noix et un verre d'eau
 - **Après l'entraînement** : Yaourt grec avec des fruits et des graines de chia
 
-### Mercredi
-#### Répéter les exercices de lundi
-- **Échauffement** : Répéter les cercles des bras, inclinaisons latérales du tronc et rotations du cou.
-- **Exercices** : Pompes pieds surélevés, fentes avec poids, planche latérale, soulevé de terre avec haltères.
-- **Étirements** : Répéter les étirements des épaules et des ischio-jambiers.
+## Mercredi
+### Table des matières
+- Échauffement
+- Exercices
+- Étirements
+- Recommandations alimentaires
 
-#### Recommandations alimentaires
+### Échauffement
+- Répétez les exercices de lundi.
+
+### Exercices
+- Répétez les exercices de lundi.
+
+### Étirements
+- Répétez les étirements de lundi.
+
+### Recommandations alimentaires
 - **Avant l'entraînement** : Une pomme et un verre d'eau
 - **Après l'entraînement** : Wrap au poulet (tortilla, poulet cuit, légumes, houmous)
 
-### Jeudi
-#### Cardio (Vélo stationnaire)
+## Jeudi
+### Table des matières
+- Cardio
+- Recommandations alimentaires
+
+### Cardio (Vélo stationnaire)
 - **Objectif** : Améliorer l'endurance cardiovasculaire et brûler des calories.
 - **Instructions** :
   - **Durée** : 40 minutes
@@ -139,5 +159,16 @@
   - Ajustez la résistance selon votre niveau de confort et d'intensité souhaitée.
   - Utilisez votre montre pour suivre le temps et les intervalles.
 
-#### Recommandations alimentaires
+### Recommandations alimentaires
 - **Avant l'entraînement** : Une poignée d'amandes et un verre d'eau
+- **Après l'entraînement** : Salade préparée (mélange de salade, thon en conserve, vinaigrette)
+
+## Vendredi
+### Table des matières
+- Échauffement
+- Exercices
+- Étirements
+- Recommandations alimentaires
+
+### Échauffement
+- Répétez les exercices de lundi.
