@@ -1,104 +1,104 @@
-# Plan de Remise en Forme Avancé - 3 Semaines (Sans équipement)
+## Plan de Remise en Forme Avancé - 3 Semaines (Sans équipement)
 
-## Grande Table des Matières
+### Grande Table des Matières
 - [Semaine 1](#semaine-1)
-  - [Lundi](#lundi)
+  - [Lundi](#lundi-1)
     - [Échauffement](#échauffement-1)
     - [Exercices](#exercices-1)
     - [Étirements](#étirements-1)
     - [Recommandations alimentaires](#recommandations-alimentaires-1)
-  - [Mardi](#mardi)
-    - [Cardio](#cardio)
+  - [Mardi](#mardi-1)
+    - [Cardio](#cardio-1)
     - [Recommandations alimentaires](#recommandations-alimentaires-2)
-  - [Mercredi](#mercredi)
+  - [Mercredi](#mercredi-1)
     - [Échauffement](#échauffement-2)
     - [Exercices](#exercices-2)
     - [Étirements](#étirements-2)
     - [Recommandations alimentaires](#recommandations-alimentaires-3)
-  - [Jeudi](#jeudi)
-    - [Cardio](#cardio-1)
+  - [Jeudi](#jeudi-1)
+    - [Cardio](#cardio-2)
     - [Recommandations alimentaires](#recommandations-alimentaires-4)
-  - [Vendredi](#vendredi)
+  - [Vendredi](#vendredi-1)
     - [Échauffement](#échauffement-3)
     - [Exercices](#exercices-3)
     - [Étirements](#étirements-3)
     - [Recommandations alimentaires](#recommandations-alimentaires-5)
-  - [Samedi](#samedi)
-    - [Activité VR](#activité-vr)
+  - [Samedi](#samedi-1)
+    - [Activité VR](#activité-vr-1)
     - [Recommandations alimentaires](#recommandations-alimentaires-6)
-  - [Dimanche](#dimanche)
-    - [Repos & Récupération](#repos--récupération)
+  - [Dimanche](#dimanche-1)
+    - [Repos & Récupération](#repos-récupération-1)
     - [Recommandations alimentaires](#recommandations-alimentaires-7)
   - [Liste d'épicerie pour la Semaine 1](#liste-dépicerie-pour-la-semaine-1)
 - [Semaine 2](#semaine-2)
-  - [Lundi](#lundi-1)
+  - [Lundi](#lundi-2)
     - [Échauffement](#échauffement-4)
     - [Exercices](#exercices-4)
     - [Étirements](#étirements-4)
     - [Recommandations alimentaires](#recommandations-alimentaires-8)
-  - [Mardi](#mardi-1)
-    - [Cardio](#cardio-2)
+  - [Mardi](#mardi-2)
+    - [Cardio](#cardio-3)
     - [Recommandations alimentaires](#recommandations-alimentaires-9)
-  - [Mercredi](#mercredi-1)
+  - [Mercredi](#mercredi-2)
     - [Échauffement](#échauffement-5)
     - [Exercices](#exercices-5)
     - [Étirements](#étirements-5)
     - [Recommandations alimentaires](#recommandations-alimentaires-10)
-  - [Jeudi](#jeudi-1)
-    - [Cardio](#cardio-3)
+  - [Jeudi](#jeudi-2)
+    - [Cardio](#cardio-4)
     - [Recommandations alimentaires](#recommandations-alimentaires-11)
-  - [Vendredi](#vendredi-1)
+  - [Vendredi](#vendredi-2)
     - [Échauffement](#échauffement-6)
     - [Exercices](#exercices-6)
     - [Étirements](#étirements-6)
     - [Recommandations alimentaires](#recommandations-alimentaires-12)
-  - [Samedi](#samedi-1)
-    - [Activité VR](#activité-vr-1)
+  - [Samedi](#samedi-2)
+    - [Activité VR](#activité-vr-2)
     - [Recommandations alimentaires](#recommandations-alimentaires-13)
-  - [Dimanche](#dimanche-1)
-    - [Repos & Récupération](#repos--récupération-1)
+  - [Dimanche](#dimanche-2)
+    - [Repos & Récupération](#repos-récupération-2)
     - [Recommandations alimentaires](#recommandations-alimentaires-14)
   - [Liste d'épicerie pour la Semaine 2](#liste-dépicerie-pour-la-semaine-2)
 - [Semaine 3](#semaine-3)
-  - [Lundi](#lundi-2)
+  - [Lundi](#lundi-3)
     - [Échauffement](#échauffement-7)
     - [Exercices](#exercices-7)
     - [Étirements](#étirements-7)
     - [Recommandations alimentaires](#recommandations-alimentaires-15)
-  - [Mardi](#mardi-2)
-    - [Cardio](#cardio-4)
+  - [Mardi](#mardi-3)
+    - [Cardio](#cardio-5)
     - [Recommandations alimentaires](#recommandations-alimentaires-16)
-  - [Mercredi](#mercredi-2)
+  - [Mercredi](#mercredi-3)
     - [Échauffement](#échauffement-8)
     - [Exercices](#exercices-8)
     - [Étirements](#étirements-8)
     - [Recommandations alimentaires](#recommandations-alimentaires-17)
-  - [Jeudi](#jeudi-2)
-    - [Cardio](#cardio-5)
+  - [Jeudi](#jeudi-3)
+    - [Cardio](#cardio-6)
     - [Recommandations alimentaires](#recommandations-alimentaires-18)
-  - [Vendredi](#vendredi-2)
+  - [Vendredi](#vendredi-3)
     - [Échauffement](#échauffement-9)
     - [Exercices](#exercices-9)
     - [Étirements](#étirements-9)
     - [Recommandations alimentaires](#recommandations-alimentaires-19)
-  - [Samedi](#samedi-2)
-    - [Activité VR](#activité-vr-2)
+  - [Samedi](#samedi-3)
+    - [Activité VR](#activité-vr-3)
     - [Recommandations alimentaires](#recommandations-alimentaires-20)
-  - [Dimanche](#dimanche-2)
-    - [Repos & Récupération](#repos--récupération-2)
+  - [Dimanche](#dimanche-3)
+    - [Repos & Récupération](#repos-récupération-3)
     - [Recommandations alimentaires](#recommandations-alimentaires-21)
   - [Liste d'épicerie pour la Semaine 3](#liste-dépicerie-pour-la-semaine-3)
 
-
+## Semaine 1
 
 ### Lundi
 #### Table des matières
 - [Échauffement](#échauffement-1)
--  [Exercices](#exercices-1)
+- [Exercices](#exercices-1)
 - [Étirements](#étirements-1)
--  [Recommandations alimentaires](#recommandations-alimentaires-1)
+- [Recommandations alimentaires](#recommandations-alimentaires-1)
 
-### Échauffement
+#### Échauffement
 1. **Cercles des bras**
    - **Objectif** : Préparer les épaules et augmenter la mobilité.
    - **Instructions** :
@@ -106,6 +106,7 @@
      - Étendez les bras sur les côtés à hauteur des épaules.
      - Faites des cercles avec vos bras, 10 fois vers l'avant puis 10 fois vers l'arrière.
    - **Points d'attention** : Gardez les bras tendus et les mouvements fluides. Évitez de plier les coudes.
+   - ![Cercles des bras](https://www.example.com/circles_des_bras.gif)
 
 2. **Inclinaisons latérales du tronc**
    - **Objectif** : Étirer les muscles latéraux du tronc.
@@ -114,6 +115,7 @@
      - Placez une main sur la hanche et étendez l'autre bras au-dessus de la tête.
      - Inclinez-vous lentement d'un côté puis de l'autre, 10 fois de chaque côté.
    - **Points d'attention** : Gardez le dos droit et évitez de vous pencher en avant ou en arrière.
+   - ![Inclinaisons latérales du tronc](https://www.example.com/inclinaisons_laterales.gif)
 
 3. **Rotations du cou**
    - **Objectif** : Détendre et préparer les muscles du cou.
@@ -121,8 +123,9 @@
      - Debout, les pieds écartés à la largeur des épaules.
      - Faites des rotations lentes de la tête, 5 fois dans chaque direction.
    - **Points d'attention** : Effectuez les rotations doucement pour éviter les étirements brusques.
+   - ![Rotations du cou](https://www.example.com/rotations_du_cou.gif)
 
-### Exercices
+#### Exercices
 1. **Pompes classiques**
    - **Objectif** : Renforcer les muscles du haut du corps, en particulier les pectoraux, les triceps et les épaules.
    - **Instructions** :
@@ -148,6 +151,7 @@
      - Gardez le torse droit et les épaules en arrière.
      - Ne laissez pas le genou avant dépasser les orteils.
      - Maintenez une bonne posture et contrôlez le mouvement pour éviter les balancements.
+   - ![Fentes avant](https://www.example.com/fentes_avant.gif)
 
 3. **Planche latérale**
    - **Objectif** : Renforcer les muscles abdominaux, en particulier les obliques.
@@ -161,6 +165,7 @@
      - Ne laissez pas les hanches s'affaisser ou se lever trop haut.
      - Gardez la tête alignée avec la colonne vertébrale.
      - Engagez les muscles du tronc tout au long de l'exercice.
+   - ![Planche latérale](https://www.example.com/planche_laterale.gif)
 
 4. **Soulevé de terre avec poids du corps**
    - **Objectif** : Renforcer les muscles du dos, des jambes et des fessiers.
@@ -171,14 +176,16 @@
    - **Points d'attention** :
      - Gardez le dos plat et évitez de le courber.
      - Respirez en descendant et expirez en remontant.
+   - ![Soulevé de terre](https://www.example.com/souleve_de_terre.gif)
 
-### Étirements
+#### Étirements
 1. **Étirements des épaules**
    - **Objectif** : Détendre les muscles des épaules.
    - **Instructions** :
      - Étendez un bras à travers votre poitrine et utilisez l'autre main pour tirer doucement le bras vers vous.
      - Maintenez pendant 30 secondes, puis changez de côté.
    - **Points d'attention** : Gardez le bras tendu et évitez de lever les épaules.
+   - ![Étirements des épaules](https://www.example.com/etirements_des_epaules.gif)
 
 2. **Étirements des ischio-jambiers**
    - **Objectif** : Étirer les muscles à l'arrière des cuisses.
@@ -187,19 +194,30 @@
      - Penchez-vous lentement vers l'avant pour toucher vos orteils.
      - Maintenez pendant 30 secondes, puis changez de côté.
    - **Points d'attention** : Gardez le dos droit et évitez de courber les épaules.
+   - ![Étirements des ischio-jambiers](https://www.example.com/etirements_ischio_jambiers.gif)
 
-### Recommandations alimentaires
+#### Recommandations alimentaires
 - **Avant l'entraînement** : Une banane et un verre d'eau
 - **Après l'entraînement** : Smoothie protéiné (banane, épinards, lait d'amande, poudre de protéine)
+  - **Recette** :
+    1. **Ingrédients** :
+       - 1 banane
+       - 1 tasse d'épinards frais
+       - 1 tasse de lait d'amande
+       - 1 cuillère de poudre de protéine
+    2. **Instructions** :
+       - Mettez tous les ingrédients dans un mixeur.
+       - Mixez jusqu'à obtenir une consistance lisse.
+       - Servez immédiatement.
 
 ---
 
 ### Mardi
 #### Table des matières
-- [Cardio](#cardio)
+- [Cardio](#cardio-1)
 - [Recommandations alimentaires](#recommandations-alimentaires-2)
 
-### Cardio (Vélo stationnaire)
+#### Cardio (Vélo stationnaire)
 - **Objectif** : Améliorer l'endurance cardiovasculaire et brûler des calories.
 - **Instructions** :
   - **Durée** : 40 minutes
@@ -211,9 +229,17 @@
   - Ajustez la résistance selon votre niveau de confort et d'intensité souhaitée.
   - Utilisez votre montre pour suivre le temps et les intervalles.
 
-### Recommandations alimentaires
+#### Recommandations alimentaires
 - **Avant l'entraînement** : Une poignée de noix et un verre d'eau
 - **Après l'entraînement** : Yaourt grec avec des fruits et des graines de chia
+  - **Recette** :
+    1. **Ingrédients** :
+       - 1 tasse de yaourt grec nature
+       - 1/2 tasse de fruits (fraises, myrtilles, etc.)
+       - 1 cuillère à soupe de graines de chia
+    2. **Instructions** :
+       - Mélangez le yaourt grec avec les fruits et les graines de chia.
+       - Servez immédiatement ou réfrigérez pour plus tard.
 
 ---
 
@@ -224,27 +250,37 @@
 - [Étirements](#étirements-2)
 - [Recommandations alimentaires](#recommandations-alimentaires-3)
 
-### Échauffement
+#### Échauffement
 - Répétez les exercices de lundi.
 
-### Exercices
+#### Exercices
 - Répétez les exercices de lundi.
 
-### Étirements
+#### Étirements
 - Répétez les étirements de lundi.
 
-### Recommandations alimentaires
+#### Recommandations alimentaires
 - **Avant l'entraînement** : Une pomme et un verre d'eau
 - **Après l'entraînement** : Wrap au poulet (tortilla, poulet cuit, légumes, houmous)
+  - **Recette** :
+    1. **Ingrédients** :
+       - 1 tortilla de blé entier
+       - 1 poitrine de poulet cuite, tranchée
+       - 1/2 tasse de légumes (laitue, tomates, concombres)
+       - 2 cuillères à soupe de houmous
+    2. **Instructions** :
+       - Étalez le houmous sur la tortilla.
+       - Ajoutez le poulet tranché et les légumes.
+       - Roulez la tortilla et servez immédiatement.
 
 ---
 
 ### Jeudi
 #### Table des matières
-- [Cardio](#cardio-1)
+- [Cardio](#cardio-2)
 - [Recommandations alimentaires](#recommandations-alimentaires-4)
 
-### Cardio (Vélo stationnaire)
+#### Cardio (Vélo stationnaire)
 - **Objectif** : Améliorer l'endurance cardiovasculaire et brûler des calories.
 - **Instructions** :
   - **Durée** : 40 minutes
@@ -256,9 +292,19 @@
   - Ajustez la résistance selon votre niveau de confort et d'intensité souhaitée.
   - Utilisez votre montre pour suivre le temps et les intervalles.
 
-### Recommandations alimentaires
+#### Recommandations alimentaires
 - **Avant l'entraînement** : Une poignée d'amandes et un verre d'eau
 - **Après l'entraînement** : Salade préparée (mélange de salade, thon en conserve, vinaigrette)
+  - **Recette** :
+    1. **Ingrédients** :
+       - 1 sac de mélange de salade
+       - 1 boîte de thon en conserve, égoutté
+       - 2 cuillères à soupe de vinaigrette légère
+    2. **Instructions** :
+       - Mélangez tous les ingrédients dans un bol.
+       - Servez immédiatement.
+
+---
 
 ---
 
@@ -269,27 +315,49 @@
 - [Étirements](#étirements-3)
 - [Recommandations alimentaires](#recommandations-alimentaires-5)
 
-### Échauffement
+#### Échauffement
 - Répétez les exercices de lundi.
 
-### Exercices
+#### Exercices
 - Répétez les exercices de lundi.
 
-### Étirements
+#### Étirements
 - Répétez les étirements de lundi.
 
-### Recommandations alimentaires
+#### Recommandations alimentaires
 - **Avant l'entraînement** : Un smoothie aux fruits
+  - **Recette** :
+    1. **Ingrédients** :
+       - 1 banane
+       - 1/2 tasse de fraises
+       - 1/2 tasse de lait d'amande
+       - 1 cuillère de poudre de protéine (facultatif)
+    2. **Instructions** :
+       - Mettez tous les ingrédients dans un mixeur.
+       - Mixez jusqu'à obtenir une consistance lisse.
+       - Servez immédiatement.
 - **Après l'entraînement** : Poulet grillé avec quinoa et légumes rôtis
+  - **Recette** :
+    1. **Ingrédients** :
+       - 1 poitrine de poulet
+       - 1 tasse de quinoa
+       - 1 tasse de légumes variés (courgettes, poivrons, brocoli)
+       - 1 cuillère à soupe d'huile d'olive
+       - Sel et poivre au goût
+    2. **Instructions** :
+       - Faites cuire le quinoa selon les instructions du paquet.
+       - Assaisonnez le poulet avec du sel, du poivre et de l'huile d'olive, puis grillez-le jusqu'à ce qu'il soit bien cuit.
+       - Faites rôtir les légumes au four avec un peu d'huile d'olive, de sel et de poivre à 200°C pendant 20 minutes.
+       - Servez le poulet avec le quinoa et les légumes rôtis.
 
 ---
 
 ### Samedi
 #### Table des matières
-- [Activité VR](#activité-vr)
+- [Activité VR](#activité-vr-1)
 - [Recommandations alimentaires](#recommandations-alimentaires-6)
 
-### Activité VR
+#### Activité VR
 - **Objectif** : Améliorer l'endurance cardiovasculaire et la coordination.
 - **Instructions** :
   - Jeux actifs pendant 35-45 minutes (jeux de danse, fitness).
@@ -298,18 +366,33 @@
   - Faites attention à votre environnement pour éviter les collisions.
   - Utilisez votre montre pour suivre la durée de l'activité.
 
-### Recommandations alimentaires
+#### Recommandations alimentaires
 - **Avant l'entraînement** : Un yaourt grec
 - **Après l'entraînement** : Saumon en papillote avec légumes
+  - **Recette** :
+    1. **Ingrédients** :
+       - 1 filet de saumon
+       - 1 courgette, tranchée
+       - 1 poivron rouge, tranché
+       - 1 citron, tranché
+       - 1 cuillère à soupe d'huile d'olive
+       - Sel et poivre au goût
+    2. **Instructions** :
+       - Préchauffez le four à 200°C.
+       - Placez le saumon sur une feuille de papier d'aluminium.
+       - Disposez les tranches de courgette, de poivron et de citron autour du saumon.
+       - Arrosez d'huile d'olive, salez et poivrez.
+       - Enveloppez le tout dans le papier d'aluminium et faites cuire au four pendant 20 minutes.
+       - Servez immédiatement.
 
 ---
 
 ### Dimanche
 #### Table des matières
-- [Repos & Récupération](#repos--récupération)
+- [Repos & Récupération](#repos-récupération-1)
 - [Recommandations alimentaires](#recommandations-alimentaires-7)
 
-### Repos & Récupération
+#### Repos & Récupération
 - **Objectif** : Détendre les muscles et améliorer la flexibilité.
 - **Instructions** :
   - Faites des étirements légers pour tout le corps.
@@ -318,7 +401,7 @@
   - Respirez profondément et régulièrement pendant les étirements.
   - Ne forcez pas les étirements, allez jusqu'à une légère tension.
 
-### Recommandations alimentaires
+#### Recommandations alimentaires
 - Maintenir une alimentation équilibrée avec des repas réguliers et des collations saines
 
 ---
@@ -373,6 +456,7 @@
 - Sel et poivre
 
 ---
+
 ## Semaine 2
 
 ### Lundi
@@ -382,7 +466,7 @@
 - [Étirements](#étirements-4)
 - [Recommandations alimentaires](#recommandations-alimentaires-8)
 
-### Échauffement
+#### Échauffement
 1. **Cercles des bras**
    - **Objectif** : Préparer les épaules et augmenter la mobilité.
    - **Instructions** :
@@ -390,6 +474,7 @@
      - Étendez les bras sur les côtés à hauteur des épaules.
      - Faites des cercles avec vos bras, 10 fois vers l'avant puis 10 fois vers l'arrière.
    - **Points d'attention** : Gardez les bras tendus et les mouvements fluides. Évitez de plier les coudes.
+   - ![Cercles des bras](https://www.example.com/circles_des_bras.gif)
 
 2. **Inclinaisons latérales du tronc**
    - **Objectif** : Étirer les muscles latéraux du tronc.
@@ -398,6 +483,7 @@
      - Placez une main sur la hanche et étendez l'autre bras au-dessus de la tête.
      - Inclinez-vous lentement d'un côté puis de l'autre, 10 fois de chaque côté.
    - **Points d'attention** : Gardez le dos droit et évitez de vous pencher en avant ou en arrière.
+   - ![Inclinaisons latérales du tronc](https://www.example.com/inclinaisons_laterales.gif)
 
 3. **Rotations du cou**
    - **Objectif** : Détendre et préparer les muscles du cou.
@@ -405,8 +491,9 @@
      - Debout, les pieds écartés à la largeur des épaules.
      - Faites des rotations lentes de la tête, 5 fois dans chaque direction.
    - **Points d'attention** : Effectuez les rotations doucement pour éviter les étirements brusques.
+   - ![Rotations du cou](https://www.example.com/rotations_du_cou.gif)
 
-### Exercices
+#### Exercices
 1. **Pompes pieds surélevés**
    - **Objectif** : Renforcer les muscles du haut du corps, en particulier les pectoraux, les triceps et les épaules.
    - **Instructions** :
@@ -419,6 +506,7 @@
      - Ne laissez pas vos hanches s'affaisser ou se lever trop haut.
      - Gardez le cou neutre, ne le laissez pas tomber ou se tendre en arrière.
      - Respirez en descendant et expirez en montant.
+   - ![Pompes pieds surélevés](https://www.example.com/pompes_pieds_sureleves.gif)
 
 2. **Fentes arrière**
    - **Objectif** : Renforcer les muscles des jambes, en particulier les quadriceps, les fessiers et les ischio-jambiers.
@@ -432,6 +520,7 @@
      - Gardez le torse droit et les épaules en arrière.
      - Ne laissez pas le genou avant dépasser les orteils.
      - Maintenez une bonne posture et contrôlez le mouvement pour éviter les balancements.
+   - ![Fentes arrière](https://www.example.com/fentes_arriere.gif)
 
 3. **Planche dynamique**
    - **Objectif** : Renforcer les muscles abdominaux et les épaules.
@@ -443,6 +532,7 @@
      - Gardez le corps en ligne droite pendant l'exercice.
      - Évitez de bouger les hanches.
      - Respirez régulièrement tout au long de l'exercice.
+   - ![Planche dynamique](https://www.example.com/planche_dynamique.gif)
 
 4. **Squats sautés**
    - **Objectif** : Renforcer les muscles des jambes et améliorer la puissance explosive.
@@ -455,14 +545,16 @@
      - Gardez le dos droit et les genoux alignés avec les pieds.
      - Atterrissez doucement pour éviter les blessures aux genoux.
      - Respirez en descendant et expirez en sautant.
+   - ![Squats sautés](https://www.example.com/squats_sautes.gif)
 
-### Étirements
+#### Étirements
 1. **Étirements des épaules**
    - **Objectif** : Détendre les muscles des épaules.
    - **Instructions** :
      - Étendez un bras à travers votre poitrine et utilisez l'autre main pour tirer doucement le bras vers vous.
      - Maintenez pendant 30 secondes, puis changez de côté.
    - **Points d'attention** : Gardez le bras tendu et évitez de lever les épaules.
+   - ![Étirements des épaules](https://www.example.com/etirements_des_epaules.gif)
 
 2. **Étirements des quadriceps**
    - **Objectif** : Étirer les muscles à l'avant des cuisses.
@@ -471,19 +563,30 @@
      - Maintenez la position pendant 30 secondes.
      - Changez de côté.
    - **Points d'attention** : Gardez les genoux proches et évitez de cambrer le dos.
+   - ![Étirements des quadriceps](https://www.example.com/etirements_quadriceps.gif)
 
-### Recommandations alimentaires
+#### Recommandations alimentaires
 - **Avant l'entraînement** : Une banane et un verre d'eau
 - **Après l'entraînement** : Smoothie protéiné (banane, épinards, lait d'amande, poudre de protéine)
+  - **Recette** :
+    1. **Ingrédients** :
+       - 1 banane
+       - 1 tasse d'épinards frais
+       - 1 tasse de lait d'amande
+       - 1 cuillère de poudre de protéine
+    2. **Instructions** :
+       - Mettez tous les ingrédients dans un mixeur.
+       - Mixez jusqu'à obtenir une consistance lisse.
+       - Servez immédiatement.
 
 ---
 
 ### Mardi
 #### Table des matières
-- [Cardio](#cardio-2)
+- [Cardio](#cardio-3)
 - [Recommandations alimentaires](#recommandations-alimentaires-9)
 
-### Cardio (Vélo stationnaire)
+#### Cardio (Vélo stationnaire)
 - **Objectif** : Améliorer l'endurance cardiovasculaire et brûler des calories.
 - **Instructions** :
   - **Durée** : 45 minutes
@@ -495,9 +598,17 @@
   - Ajustez la résistance selon votre niveau de confort et d'intensité souhaitée.
   - Utilisez votre montre pour suivre le temps et les intervalles.
 
-### Recommandations alimentaires
+#### Recommandations alimentaires
 - **Avant l'entraînement** : Une poignée de noix et un verre d'eau
 - **Après l'entraînement** : Yaourt grec avec des fruits et des graines de chia
+  - **Recette** :
+    1. **Ingrédients** :
+       - 1 tasse de yaourt grec nature
+       - 1/2 tasse de fruits (fraises, myrtilles, etc.)
+       - 1 cuillère à soupe de graines de chia
+    2. **Instructions** :
+       - Mélangez le yaourt grec avec les fruits et les graines de chia.
+       - Servez immédiatement ou réfrigérez pour plus tard.
 
 ---
 
@@ -508,27 +619,37 @@
 - [Étirements](#étirements-5)
 - [Recommandations alimentaires](#recommandations-alimentaires-10)
 
-### Échauffement
+#### Échauffement
 - Répétez les exercices de lundi.
 
-### Exercices
+#### Exercices
 - Répétez les exercices de lundi.
 
-### Étirements
+#### Étirements
 - Répétez les étirements de lundi.
 
-### Recommandations alimentaires
+#### Recommandations alimentaires
 - **Avant l'entraînement** : Une pomme et un verre d'eau
 - **Après l'entraînement** : Wrap au poulet (tortilla, poulet cuit, légumes, houmous)
+  - **Recette** :
+    1. **Ingrédients** :
+       - 1 tortilla de blé entier
+       - 1 poitrine de poulet cuite, tranchée
+       - 1/2 tasse de légumes (laitue, tomates, concombres)
+       - 2 cuillères à soupe de houmous
+    2. **Instructions** :
+       - Étalez le houmous sur la tortilla.
+       - Ajoutez le poulet tranché et les légumes.
+       - Roulez la tortilla et servez immédiatement.
 
 ---
 
 ### Jeudi
 #### Table des matières
-- [Cardio](#cardio-3)
+- [Cardio](#cardio-4)
 - [Recommandations alimentaires](#recommandations-alimentaires-11)
 
-### Cardio (Vélo stationnaire)
+#### Cardio (Vélo stationnaire)
 - **Objectif** : Améliorer l'endurance cardiovasculaire et brûler des calories.
 - **Instructions** :
   - **Durée** : 45 minutes
@@ -540,9 +661,17 @@
   - Ajustez la résistance selon votre niveau de confort et d'intensité souhaitée.
   - Utilisez votre montre pour suivre le temps et les intervalles.
 
-### Recommandations alimentaires
+#### Recommandations alimentaires
 - **Avant l'entraînement** : Une poignée d'amandes et un verre d'eau
 - **Après l'entraînement** : Salade préparée (mélange de salade, thon en conserve, vinaigrette)
+  - **Recette** :
+    1. **Ingrédients** :
+       - 1 sac de mélange de salade
+       - 1 boîte de thon en conserve, égoutté
+       - 2 cuillères à soupe de vinaigrette légère
+    2. **Instructions** :
+       - Mélangez tous les ingrédients dans un bol.
+       - Servez immédiatement.
 
 ---
 
@@ -553,27 +682,49 @@
 - [Étirements](#étirements-6)
 - [Recommandations alimentaires](#recommandations-alimentaires-12)
 
-### Échauffement
+#### Échauffement
 - Répétez les exercices de lundi.
 
-### Exercices
+#### Exercices
 - Répétez les exercices de lundi.
 
-### Étirements
+#### Étirements
 - Répétez les étirements de lundi.
 
-### Recommandations alimentaires
+#### Recommandations alimentaires
 - **Avant l'entraînement** : Un smoothie aux fruits
+  - **Recette** :
+1. **Ingrédients** :
+       - 1 banane
+       - 1/2 tasse de fraises
+       - 1/2 tasse de lait d'amande
+       - 1 cuillère de poudre de protéine (facultatif)
+    2. **Instructions** :
+       - Mettez tous les ingrédients dans un mixeur.
+       - Mixez jusqu'à obtenir une consistance lisse.
+       - Servez immédiatement.
 - **Après l'entraînement** : Poulet grillé avec quinoa et légumes rôtis
+  - **Recette** :
+    1. **Ingrédients** :
+       - 1 poitrine de poulet
+       - 1 tasse de quinoa
+       - 1 tasse de légumes variés (courgettes, poivrons, brocoli)
+       - 1 cuillère à soupe d'huile d'olive
+       - Sel et poivre au goût
+    2. **Instructions** :
+       - Faites cuire le quinoa selon les instructions du paquet.
+       - Assaisonnez le poulet avec du sel, du poivre et de l'huile d'olive, puis grillez-le jusqu'à ce qu'il soit bien cuit.
+       - Faites rôtir les légumes au four avec un peu d'huile d'olive, de sel et de poivre à 200°C pendant 20 minutes.
+       - Servez le poulet avec le quinoa et les légumes rôtis.
 
 ---
 
 ### Samedi
 #### Table des matières
-- [Activité VR](#activité-vr-1)
+- [Activité VR](#activité-vr-2)
 - [Recommandations alimentaires](#recommandations-alimentaires-13)
 
-### Activité VR
+#### Activité VR
 - **Objectif** : Améliorer l'endurance cardiovasculaire et la coordination.
 - **Instructions** :
   - Jeux actifs pendant 40-45 minutes (jeux de danse, fitness).
@@ -582,18 +733,33 @@
   - Faites attention à votre environnement pour éviter les collisions.
   - Utilisez votre montre pour suivre la durée de l'activité.
 
-### Recommandations alimentaires
+#### Recommandations alimentaires
 - **Avant l'entraînement** : Un yaourt grec
 - **Après l'entraînement** : Saumon en papillote avec légumes
+  - **Recette** :
+    1. **Ingrédients** :
+       - 1 filet de saumon
+       - 1 courgette, tranchée
+       - 1 poivron rouge, tranché
+       - 1 citron, tranché
+       - 1 cuillère à soupe d'huile d'olive
+       - Sel et poivre au goût
+    2. **Instructions** :
+       - Préchauffez le four à 200°C.
+       - Placez le saumon sur une feuille de papier d'aluminium.
+       - Disposez les tranches de courgette, de poivron et de citron autour du saumon.
+       - Arrosez d'huile d'olive, salez et poivrez.
+       - Enveloppez le tout dans le papier d'aluminium et faites cuire au four pendant 20 minutes.
+       - Servez immédiatement.
 
 ---
 
 ### Dimanche
 #### Table des matières
-- [Repos & Récupération](#repos--récupération-1)
+- [Repos & Récupération](#repos-récupération-2)
 - [Recommandations alimentaires](#recommandations-alimentaires-14)
 
-### Repos & Récupération
+#### Repos & Récupération
 - **Objectif** : Détendre les muscles et améliorer la flexibilité.
 - **Instructions** :
   - Faites des étirements légers pour tout le corps.
@@ -602,7 +768,7 @@
   - Respirez profondément et régulièrement pendant les étirements.
   - Ne forcez pas les étirements, allez jusqu'à une légère tension.
 
-### Recommandations alimentaires
+#### Recommandations alimentaires
 - Maintenir une alimentation équilibrée avec des repas réguliers et des collations saines
 
 ---
@@ -657,6 +823,7 @@
 - Sel et poivre
 
 ---
+
 ## Semaine 3
 
 ### Lundi
@@ -666,7 +833,7 @@
 - [Étirements](#étirements-7)
 - [Recommandations alimentaires](#recommandations-alimentaires-15)
 
-### Échauffement
+#### Échauffement
 1. **Cercles des bras**
    - **Objectif** : Préparer les épaules et augmenter la mobilité.
    - **Instructions** :
@@ -674,6 +841,7 @@
      - Étendez les bras sur les côtés à hauteur des épaules.
      - Faites des cercles avec vos bras, 10 fois vers l'avant puis 10 fois vers l'arrière.
    - **Points d'attention** : Gardez les bras tendus et les mouvements fluides. Évitez de plier les coudes.
+   - ![Cercles des bras](https://www.example.com/circles_des_bras.gif)
 
 2. **Inclinaisons latérales du tronc**
    - **Objectif** : Étirer les muscles latéraux du tronc.
@@ -682,6 +850,7 @@
      - Placez une main sur la hanche et étendez l'autre bras au-dessus de la tête.
      - Inclinez-vous lentement d'un côté puis de l'autre, 10 fois de chaque côté.
    - **Points d'attention** : Gardez le dos droit et évitez de vous pencher en avant ou en arrière.
+   - ![Inclinaisons latérales du tronc](https://www.example.com/inclinaisons_laterales.gif)
 
 3. **Rotations du cou**
    - **Objectif** : Détendre et préparer les muscles du cou.
@@ -689,8 +858,9 @@
      - Debout, les pieds écartés à la largeur des épaules.
      - Faites des rotations lentes de la tête, 5 fois dans chaque direction.
    - **Points d'attention** : Effectuez les rotations doucement pour éviter les étirements brusques.
+   - ![Rotations du cou](https://www.example.com/rotations_du_cou.gif)
 
-### Exercices
+#### Exercices
 1. **Pompes pliométriques**
    - **Objectif** : Renforcer les muscles du haut du corps, en particulier les pectoraux, les triceps et les épaules, et améliorer la puissance.
    - **Instructions** :
@@ -701,6 +871,7 @@
      - Gardez le corps en ligne droite de la tête aux talons.
      - Assurez-vous d'atterrir avec les coudes légèrement pliés pour absorber l'impact.
      - Respirez en descendant et expirez en montant.
+   - ![Pompes pliométriques](https://www.example.com/pompes_pliometriques.gif)
 
 2. **Squats sautés**
    - **Objectif** : Renforcer les muscles des jambes et améliorer la puissance explosive.
@@ -713,6 +884,7 @@
      - Gardez le dos droit et les genoux alignés avec les pieds.
      - Atterrissez doucement pour éviter les blessures aux genoux.
      - Respirez en descendant et expirez en sautant.
+   - ![Squats sautés](https://www.example.com/squats_sautes.gif)
 
 3. **Planche avec rotation**
    - **Objectif** : Renforcer les muscles abdominaux et les obliques.
@@ -724,6 +896,7 @@
      - Gardez le corps en ligne droite pendant la rotation.
      - Engagez les muscles du tronc pour stabiliser le mouvement.
      - Respirez régulièrement tout au long de l'exercice.
+   - ![Planche avec rotation](https://www.example.com/planche_rotation.gif)
 
 4. **Burpees**
    - **Objectif** : Exercice complet pour améliorer la condition physique générale et brûler des calories.
@@ -738,14 +911,16 @@
      - Gardez une bonne posture tout au long du mouvement.
      - Assurez-vous que chaque étape du burpee est bien exécutée.
      - Respirez régulièrement tout au long de l'exercice.
+   - ![Burpees](https://www.example.com/burpees.gif)
 
-### Étirements
+#### Étirements
 1. **Étirements des épaules**
    - **Objectif** : Détendre les muscles des épaules.
    - **Instructions** :
      - Étendez un bras à travers votre poitrine et utilisez l'autre main pour tirer doucement le bras vers vous.
      - Maintenez pendant 30 secondes, puis changez de côté.
    - **Points d'attention** : Gardez le bras tendu et évitez de lever les épaules.
+   - ![Étirements des épaules](https://www.example.com/etirements_epaules.gif)
 
 2. **Étirements des ischio-jambiers**
    - **Objectif** : Étirer les muscles à l'arrière des cuisses.
@@ -754,19 +929,30 @@
      - Penchez-vous lentement vers l'avant pour toucher vos orteils.
      - Maintenez pendant 30 secondes, puis changez de côté.
    - **Points d'attention** : Gardez le dos droit et évitez de courber les épaules.
+   - ![Étirements des ischio-jambiers](https://www.example.com/etirements_ischio_jambiers.gif)
 
-### Recommandations alimentaires
+#### Recommandations alimentaires
 - **Avant l'entraînement** : Une banane et un verre d'eau
 - **Après l'entraînement** : Smoothie protéiné (banane, épinards, lait d'amande, poudre de protéine)
+  - **Recette** :
+    1. **Ingrédients** :
+       - 1 banane
+       - 1 tasse d'épinards frais
+       - 1 tasse de lait d'amande
+       - 1 cuillère de poudre de protéine
+    2. **Instructions** :
+       - Mettez tous les ingrédients dans un mixeur.
+       - Mixez jusqu'à obtenir une consistance lisse.
+       - Servez immédiatement.
 
 ---
 
 ### Mardi
 #### Table des matières
-- [Cardio](#cardio-4)
+- [Cardio](#cardio-5)
 - [Recommandations alimentaires](#recommandations-alimentaires-16)
 
-### Cardio (Vélo stationnaire)
+#### Cardio (Vélo stationnaire)
 - **Objectif** : Améliorer l'endurance cardiovasculaire et brûler des calories.
 - **Instructions** :
   - **Durée** : 50 minutes
@@ -778,9 +964,17 @@
   - Ajustez la résistance selon votre niveau de confort et d'intensité souhaitée.
   - Utilisez votre montre pour suivre le temps et les intervalles.
 
-### Recommandations alimentaires
+#### Recommandations alimentaires
 - **Avant l'entraînement** : Une poignée de noix et un verre d'eau
 - **Après l'entraînement** : Yaourt grec avec des fruits et des graines de chia
+  - **Recette** :
+    1. **Ingrédients** :
+       - 1 tasse de yaourt grec nature
+       - 1/2 tasse de fruits (fraises, myrtilles, etc.)
+       - 1 cuillère à soupe de graines de chia
+    2. **Instructions** :
+       - Mélangez le yaourt grec avec les fruits et les graines de chia.
+       - Servez immédiatement ou réfrigérez pour plus tard.
 
 ---
 
@@ -791,27 +985,37 @@
 - [Étirements](#étirements-8)
 - [Recommandations alimentaires](#recommandations-alimentaires-17)
 
-### Échauffement
+#### Échauffement
 - Répétez les exercices de lundi.
 
-### Exercices
+#### Exercices
 - Répétez les exercices de lundi.
 
-### Étirements
+#### Étirements
 - Répétez les étirements de lundi.
 
-### Recommandations alimentaires
+#### Recommandations alimentaires
 - **Avant l'entraînement** : Une pomme et un verre d'eau
 - **Après l'entraînement** : Wrap au poulet (tortilla, poulet cuit, légumes, houmous)
+  - **Recette** :
+    1. **Ingrédients** :
+       - 1 tortilla de blé entier
+       - 1 poitrine de poulet cuite, tranchée
+       - 1/2 tasse de légumes (laitue, tomates, concombres)
+       - 2 cuillères à soupe de houmous
+    2. **Instructions** :
+       - Étalez le houmous sur la tortilla.
+       - Ajoutez le poulet tranché et les légumes.
+       - Roulez la tortilla et servez immédiatement.
 
 ---
 
 ### Jeudi
 #### Table des matières
-- [Cardio](#cardio-5)
+- [Cardio](#cardio-6)
 - [Recommandations alimentaires](#recommandations-alimentaires-18)
 
-### Cardio (Vélo stationnaire)
+#### Cardio (Vélo stationnaire)
 - **Objectif** : Améliorer l'endurance cardiovasculaire et brûler des calories.
 - **Instructions** :
   - **Durée** : 50 minutes
@@ -823,9 +1027,17 @@
   - Ajustez la résistance selon votre niveau de confort et d'intensité souhaitée.
   - Utilisez votre montre pour suivre le temps et les intervalles.
 
-### Recommandations alimentaires
+#### Recommandations alimentaires
 - **Avant l'entraînement** : Une poignée d'amandes et un verre d'eau
 - **Après l'entraînement** : Salade préparée (mélange de salade, thon en conserve, vinaigrette)
+  - **Recette** :
+    1. **Ingrédients** :
+       - 1 sac de mélange de salade
+       - 1 boîte de thon en conserve, égoutté
+       - 2 cuillères à soupe de vinaigrette légère
+    2. **Instructions** :
+       - Mélangez tous les ingrédients dans un bol.
+       - Servez immédiatement.
 
 ---
 
@@ -836,27 +1048,49 @@
 - [Étirements](#étirements-9)
 - [Recommandations alimentaires](#recommandations-alimentaires-19)
 
-### Échauffement
+#### Échauffement
 - Répétez les exercices de lundi.
 
-### Exercices
+#### Exercices
 - Répétez les exercices de lundi.
 
-### Étirements
+#### Étirements
 - Répétez les étirements de lundi.
 
-### Recommandations alimentaires
+#### Recommandations alimentaires
 - **Avant l'entraînement** : Un smoothie aux fruits
+  - **Recette** :
+    1. **Ingrédients** :
+       - 1 banane
+       - 1/2 tasse de fraises
+       - 1/2 tasse de lait d'amande
+       - 1 cuillère de poudre de protéine (facultatif)
+    2. **Instructions** :
+       - Mettez tous les ingrédients dans un mixeur.
+       - Mixez jusqu'à obtenir une consistance lisse.
+       - Servez immédiatement.
 - **Après l'entraînement** : Poulet grillé avec quinoa et légumes rôtis
+  - **Recette** :
+    1. **Ingrédients** :
+       - 1 poitrine de poulet
+       - 1 tasse de quinoa
+       - 1 tasse de légumes variés (courgettes, poivrons, brocoli)
+- 1 cuillère à soupe d'huile d'olive
+       - Sel et poivre au goût
+    2. **Instructions** :
+       - Faites cuire le quinoa selon les instructions du paquet.
+       - Assaisonnez le poulet avec du sel, du poivre et de l'huile d'olive, puis grillez-le jusqu'à ce qu'il soit bien cuit.
+       - Faites rôtir les légumes au four avec un peu d'huile d'olive, de sel et de poivre à 200°C pendant 20 minutes.
+       - Servez le poulet avec le quinoa et les légumes rôtis.
 
 ---
 
 ### Samedi
 #### Table des matières
-- [Activité VR](#activité-vr-2)
+- [Activité VR](#activité-vr-3)
 - [Recommandations alimentaires](#recommandations-alimentaires-20)
 
-### Activité VR
+#### Activité VR
 - **Objectif** : Améliorer l'endurance cardiovasculaire et la coordination.
 - **Instructions** :
   - Jeux actifs pendant 45-50 minutes (jeux de danse, fitness).
@@ -865,18 +1099,33 @@
   - Faites attention à votre environnement pour éviter les collisions.
   - Utilisez votre montre pour suivre la durée de l'activité.
 
-### Recommandations alimentaires
+#### Recommandations alimentaires
 - **Avant l'entraînement** : Un yaourt grec
 - **Après l'entraînement** : Saumon en papillote avec légumes
+  - **Recette** :
+    1. **Ingrédients** :
+       - 1 filet de saumon
+       - 1 courgette, tranchée
+       - 1 poivron rouge, tranché
+       - 1 citron, tranché
+       - 1 cuillère à soupe d'huile d'olive
+       - Sel et poivre au goût
+    2. **Instructions** :
+       - Préchauffez le four à 200°C.
+       - Placez le saumon sur une feuille de papier d'aluminium.
+       - Disposez les tranches de courgette, de poivron et de citron autour du saumon.
+       - Arrosez d'huile d'olive, salez et poivrez.
+       - Enveloppez le tout dans le papier d'aluminium et faites cuire au four pendant 20 minutes.
+       - Servez immédiatement.
 
 ---
 
 ### Dimanche
 #### Table des matières
-- [Repos & Récupération](#repos--récupération-2)
+- [Repos & Récupération](#repos-récupération-3)
 - [Recommandations alimentaires](#recommandations-alimentaires-21)
 
-### Repos & Récupération
+#### Repos & Récupération
 - **Objectif** : Détendre les muscles et améliorer la flexibilité.
 - **Instructions** :
   - Faites des étirements légers pour tout le corps.
@@ -885,7 +1134,7 @@
   - Respirez profondément et régulièrement pendant les étirements.
   - Ne forcez pas les étirements, allez jusqu'à une légère tension.
 
-### Recommandations alimentaires
+#### Recommandations alimentaires
 - Maintenir une alimentation équilibrée avec des repas réguliers et des collations saines
 
 ---
